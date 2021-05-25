@@ -1,5 +1,5 @@
 {
-	"port": 5000,
+	"port": 80,
 	"mongooseUri": "mongodb+srv://kalapyha:1234@linkshortener.60obc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
 	"tokenKey": "my secret key",
 	"baseURL": "http://localhost:5000"
