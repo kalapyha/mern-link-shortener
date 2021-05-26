@@ -3,7 +3,8 @@ const mongoose = require('mongoose');
 const config = require('config');
 const path = require('path');
 
-const PORT = config.get('port');
+// const PORT = config.get('port');
+const PORT = process.env.PORT || 8080;
 
 const app = express();
 
