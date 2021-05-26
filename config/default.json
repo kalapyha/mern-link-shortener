@@ -2,5 +2,5 @@
 	"port": "3000",
 	"mongooseUri": "mongodb+srv://kalapyha:1234@linkshortener.60obc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
 	"tokenKey": "my secret key",
-	"baseURL": "https://afternoon-bastion-20960.herokuapp.com/"
+	"baseURL": "https://link-shortener-apl.herokuapp.com/"
 }
