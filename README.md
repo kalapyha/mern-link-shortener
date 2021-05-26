@@ -2,6 +2,8 @@
 
 > Link Shortener app built with the MERN stack.
 
+![](link-app.png)
+
 ## Quick Start
 
 Add your MONGO_URI to the default.json file. Make sure you set an env var for that and the jwtSecret on deployment
@@ -43,3 +45,5 @@ MK
 ### License
 
 This project is licensed under the MIT License
+
+[Use this link to see the live project](https://link-shortener-apl.herokuapp.com/)
