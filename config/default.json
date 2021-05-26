@@ -1,6 +1,6 @@
 {
-	"port": "3000",
-	"mongooseUri": "mongodb+srv://kalapyha:1234@linkshortener.60obc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-	"tokenKey": "my secret key",
+	"port": "Your Port",
+	"mongooseUri": "Your URI",
+	"tokenKey": "your secret",
 	"baseURL": "https://link-shortener-apl.herokuapp.com/"
 }
